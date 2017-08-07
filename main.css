@@ -1,0 +1,41 @@
+body{
+  display: flex;
+  justify-content: center;
+
+}
+.container{
+  background-color: black;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,1);
+    border-radius: 9px;
+    width: 50vw;
+}
+.TheBasics{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+h1{
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  color: ;
+}
+.name{
+  background-image: linear-gradient(#DAB046 20%, #D73B25 20%, #D73B25 40%, #C71B25 40%, #C71B25 60%, #961A39 60%, #961A39 80%, #601035 80%);
+   margin: 0 auto;
+   margin-top: 100px;
+   width: 100%;
+   height: 150px;
+ }
+}
+img{
+  border-radius: 70px;
+}
+div img{
+width: 120px;
+}
+div{
+  color: white;
+}
